@@ -5,7 +5,7 @@ This is the list of potential projects we'll be rolling out in this GSoC. If you
 **Priority:** High
 
 **Prerequisites**<br>
-Knowledge of telepathy bindings, Strong experience of working on Sugar
+Knowledge of telepathy bindings, Strong experience of working on [Sugar](https://www.github.com/sugarlabs/sugar
 
 **Desciption**<br>
 
