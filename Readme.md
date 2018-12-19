@@ -1,4 +1,4 @@
-# Sugar Labs @GSoC
+# GSoC @Sugar Labs
 
 ## Shortcuts
 
@@ -10,7 +10,7 @@
 ## Introduction
 Google Summer of Code is a *global program focused on bringing more student developers into open source software development*. Sugar Labs will be applying in Google Summer of Code 2019 as a mentor organisation. See [GSoC 2019 timeline](https://developers.google.com/open-source/gsoc/timeline?hl=vi) for more details
 
-Here is an archive of Sugar Labs @GSoC: [2009](https://wiki.sugarlabs.org/go/Summer_of_Code/2009) | [2010](https://wiki.sugarlabs.org/go/Summer_of_Code/2010) | [2011](https://wiki.sugarlabs.org/go/Summer_of_Code/2011) | [2012](https://wiki.sugarlabs.org/go/Summer_of_Code/2012) | [2013](https://wiki.sugarlabs.org/go/Summer_of_Code/2013) | [2014](https://wiki.sugarlabs.org/go/Summer_of_Code/2009) | [2015](https://wiki.sugarlabs.org/go/Summer_of_Code/2015) | [2016](https://wiki.sugarlabs.org/go/Summer_of_Code/2009) | [2017](https://wiki.sugarlabs.org/go/Summer_of_Code/2017) | [2018](https://wiki.sugarlabs.org/go/Summer_of_Code/2009)
+Checkout our archives of GSoC Projects: [2009](https://wiki.sugarlabs.org/go/Summer_of_Code/2009) | [2010](https://wiki.sugarlabs.org/go/Summer_of_Code/2010) | [2011](https://wiki.sugarlabs.org/go/Summer_of_Code/2011) | [2012](https://wiki.sugarlabs.org/go/Summer_of_Code/2012) | [2013](https://wiki.sugarlabs.org/go/Summer_of_Code/2013) | [2014](https://wiki.sugarlabs.org/go/Summer_of_Code/2009) | [2015](https://wiki.sugarlabs.org/go/Summer_of_Code/2015) | [2016](https://wiki.sugarlabs.org/go/Summer_of_Code/2009) | [2017](https://wiki.sugarlabs.org/go/Summer_of_Code/2017) | [2018](https://wiki.sugarlabs.org/go/Summer_of_Code/2009)
 
 ## Want to Apply ?
 Thank you for showing your interest in working with us for the summer.<br>
