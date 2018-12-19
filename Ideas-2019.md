@@ -43,5 +43,3 @@ To curb this:
 ## Port Sugar to Microsoft Windows
 
 ## Port Sugar to macOS
-
-## Port all Sugarizer activities to Sugar, updating sugar-web as needed
